@@ -22,4 +22,4 @@ My interest in CS mostly in the automation part since I like to make my life eas
 
 #### GitHub Profile
 
-You can view my personalized GitHub profile: https://github.com/zikriharis
+
