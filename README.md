@@ -20,6 +20,6 @@ Since I'm a beginner in playing guitar I'm interested in building a simple ML mo
 
 My interest in CS mostly in the automation part since I like to make my life easier.
 
-#### GitHub Profile
+
 
 
